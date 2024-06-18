@@ -1,28 +1,28 @@
-date,prik,home_team,away_team,Vinder,Taber,Ude/hjemme,Resultat,home_score,away_score,tournament,city,country,neutral,Note,home_flag,away_flag,uuid,positioning_for_d3
-1918-10-06,1,Denmark,Norway,Denmark,Norway,Hjemme,4-0,4,0,Friendly,Copenhagen,Denmark,False,Venskabskamp,dk,no,46df30f2-4298-4171-be16-6fd8cb9ff2ea,2
-1950-06-22,1,Denmark,Norway,Denmark,Norway,Hjemme,4-0,4,0,Nordic Championship,Copenhagen,Denmark,False,Danmark bliver nummer 2 - et point over Norge. Kampen var medvirkende til en 2. plads i sidste ende,dk,no,0f380cd9-2777-46ae-991c-cc35379d783b,2
-1953-08-09,1,Denmark,Iceland,Denmark,Iceland,Hjemme,4-0,4,0,Friendly,Copenhagen,Denmark,False,Venskabskamp,dk,is,6e1693ef-d706-40a5-8f36-6ddbb1435280,2
-1955-07-03,1,Iceland,Denmark,Denmark,Iceland,Ude,0-4,0,4,Friendly,Reykjavík,Iceland,False,Venskabskamp,is,dk,feddbd23-160e-4687-a8e4-6abf4542ccf9,1
-1956-09-16,1,Finland,Denmark,Denmark,Finland,Ude,0-4,0,4,Nordic Championship,Helsinki,Finland,False,Danmark bliver nummer 3 - 12 point ned til Finland. Kampen havde ingen effekt. ,fi,dk,4b0d1569-5ff0-4b4f-9668-e5883633411e,1
-1959-10-04,1,Denmark,Finland,Denmark,Finland,Hjemme,4-0,4,0,Nordic Championship,Copenhagen,Denmark,False,Danmark bliver nummer 3 - 12 point ned til Finland. Kampen havde ingen effekt. ,dk,fi,e68429ec-2c5b-4927-b9cf-5eb96c4428b5,2
-1961-09-17,1,Norway,Denmark,Denmark,Norway,Ude,0-4,0,4,Nordic Championship,Oslo,Norway,False,Danmark bliver nummer 2 - 7 point over Norge. De to 4-0 sejre er med til at sikre andenpladsen,no,dk,78dfff12-341e-4b73-a0eb-d3d011fc6268,1
-1963-06-29,1,Denmark,Albania,Denmark,Albania,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Knockout kvalifikation over to kampe. Samlet sejr på 4-1 til DK. Danmark kommer videre til kvatfinalen.,dk,al,8dcd31de-2b90-44d6-adcf-bbc98aa170cb,2
-1963-09-15,1,Norway,Denmark,Denmark,Norway,Ude,0-4,0,4,Nordic Championship,Oslo,Norway,False,Danmark bliver nummer 2 - 7 point over Norge. De to 4-0 sejre er med til at sikre andenpladsen,no,dk,240db459-51a9-4af5-9774-2d4b930c2c6f,1
-1979-06-06,1,Denmark,Northern Ireland,Denmark,Northern Ireland,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Danmark slutter sidst i gruppen. Sejren havde ingen efekt,dk,gb-nir,f75ba21b-81cd-482d-9b49-b8f6aa0190e0,2
-1980-11-19,1,Denmark,Luxembourg,Denmark,Luxembourg,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig ikke. Sejren sikrede dog en 3 plads ud af fem,dk,lu,90e4252d-b6bb-4658-ab16-1c49c38d435c,2
-1989-06-18,1,Denmark,Brazil,Denmark,Brazil,Hjemme,4-0,4,0,Friendly,Copenhagen,Denmark,False,Venskabskamp,dk,br,3c7b056a-cb5b-4a0d-af53-5ff4eeb994f5,2
-1991-09-25,1,Faroe Islands,Denmark,Denmark,Faroe Islands,Ude,0-4,0,4,UEFA Euro qualification,Landskrona,Sweden,True,Danmark ender som 2'er i gruppen. 6 point foran Nordirland. Sejren hadve ingen effekt i gruppen,fo,dk,3f57890c-e8f3-4fd9-96fb-d64b85343db6,1
-1993-06-02,1,Denmark,Albania,Denmark,Albania,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig ikke. Sejret sikrede tredjepladsen. Tredjepladsen tabt på målscoren,dk,al,497ee5ab-8e07-4ba7-9404-0332fee04d71,2
-1993-08-25,1,Denmark,Lithuania,Denmark,Lithuania,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig ikke. Sejret sikrede tredjepladsen. Tredjepladsen tabt på målscoren,dk,lt,24c05ec3-fdb3-4033-a487-9f0026ffcd70,2
-1995-06-07,1,Denmark,Cyprus,Denmark,Cyprus,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Danmark bliver nummer to i gruppen. 6 point foran Belgien. Sejren havde ingen effekt.,dk,cy,3cce95fc-6f9a-4296-8167-e7b07410f4ed,2
-1997-04-30,1,Denmark,Slovenia,Denmark,Slovenia,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalifixcerer sig. 2. point foran Kroatien. Kampen medvirkede til i sidste ende.,dk,si,6613b2a1-0403-4b62-8be7-7c7c1039bb1f,2
-2006-10-11,1,Liechtenstein,Denmark,Denmark,Liechtenstein,Ude,0-4,0,4,UEFA Euro qualification,Vaduz,Liechtenstein,False,Danmark ender som nummer fire i gruppen. Sejren havde inge effekt.,li,dk,ea64982a-5922-431b-b32f-710f790476ac,1
-2007-09-12,1,Denmark,Liechtenstein,Denmark,Liechtenstein,Hjemme,4-0,4,0,UEFA Euro qualification,Aarhus,Denmark,False,Danmark ender som nummer fire i gruppen. Sejren havde inge effekt.,dk,li,370b4aef-bd42-4d42-8299-0a5a2f139192,2
-2016-06-07,1,Bulgaria,Denmark,Denmark,Bulgaria,Ude,0-4,0,4,Kirin Cup,Suita,Japan,True,Playoff om 3. plads. Danmark vinder bronze pga sejren,bg,dk,10735fad-16a4-4666-ae95-e7cf0e15e731,1
-2017-09-01,1,Denmark,Poland,Denmark,Poland,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig fire point foran nummer tre. Kampen havde ingen direkte effekt.,dk,pl,625459f6-fb1d-4f05-af8f-98cab5264c35,2
-2019-10-15,1,Denmark,Luxembourg,Denmark,Luxembourg,Hjemme,4-0,4,0,Friendly,Aalborg,Denmark,False,Venskabskamp,dk,lu,5177b44e-3bf8-4440-b430-7130405e7b8e,2
-2020-10-07,1,Denmark,Faroe Islands,Denmark,Faroe Islands,Hjemme,4-0,4,0,Friendly,Herning,Denmark,False,Venskabskamp,dk,fo,866c6b10-9929-470c-8839-b7fc7dff7aee,2
-2021-03-31,1,Austria,Denmark,Denmark,Austria,Ude,0-4,0,4,FIFA World Cup qualification,Vienna,Austria,False,Danmark vinder gruppen med fire point. Begge sejre medvirkede tilsammen,at,dk,a6fb1d9a-8172-4b6d-b723-3c8f176bec0e,1
-2021-06-26,1,Wales,Denmark,Denmark,Wales,Ude,0-4,0,4,UEFA Euro,Amsterdam,Netherlands,True,16. delsfinale - Danmark går videre til kvartfinalen,gb-wls,dk,86357b48-ced0-4eba-8605-01d9a6508506,1
-2021-10-09,1,Moldova,Denmark,Denmark,Moldova,Ude,0-4,0,4,FIFA World Cup qualification,Chișinău,Moldova,False,Danmark vinder gruppen med fire point. Begge sejre medvirkede tilsammen,md,dk,9b8d96f9-0251-4798-a1c6-5a72a676caec,1
-2023-09-07,1,Denmark,San Marino,Denmark,San Marino,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Danmark vinder gruppen med samme point som Slovenien. Sejren havde direkte effekt.,dk,sm,9b8ebe19-d414-481a-aa15-13245b38bf6b,2
+index,date,prik,home_team,away_team,Vinder,Taber,Ude/hjemme,Resultat,home_score,away_score,tournament,city,country,neutral,Note,home_flag,away_flag
+0,1918-10-06,1,Denmark,Norway,Denmark,Norway,Hjemme,4-0,4,0,Friendly,Copenhagen,Denmark,False,Venskabskamp,dk,no
+1,1950-06-22,1,Denmark,Norway,Denmark,Norway,Hjemme,4-0,4,0,Nordic Championship,Copenhagen,Denmark,False,Danmark bliver nummer 2 - et point over Norge. Kampen var medvirkende til en 2. plads i sidste ende,dk,no
+2,1953-08-09,1,Denmark,Iceland,Denmark,Iceland,Hjemme,4-0,4,0,Friendly,Copenhagen,Denmark,False,Venskabskamp,dk,is
+3,1955-07-03,1,Iceland,Denmark,Denmark,Iceland,Ude,0-4,0,4,Friendly,Reykjavík,Iceland,False,Venskabskamp,is,dk
+4,1956-09-16,1,Finland,Denmark,Denmark,Finland,Ude,0-4,0,4,Nordic Championship,Helsinki,Finland,False,Danmark bliver nummer 3 - 12 point ned til Finland. Kampen havde ingen effekt. ,fi,dk
+5,1959-10-04,1,Denmark,Finland,Denmark,Finland,Hjemme,4-0,4,0,Nordic Championship,Copenhagen,Denmark,False,Danmark bliver nummer 3 - 12 point ned til Finland. Kampen havde ingen effekt. ,dk,fi
+6,1961-09-17,1,Norway,Denmark,Denmark,Norway,Ude,0-4,0,4,Nordic Championship,Oslo,Norway,False,Danmark bliver nummer 2 - 7 point over Norge. De to 4-0 sejre er med til at sikre andenpladsen,no,dk
+7,1963-06-29,1,Denmark,Albania,Denmark,Albania,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Knockout kvalifikation over to kampe. Samlet sejr på 4-1 til DK. Danmark kommer videre til kvatfinalen.,dk,al
+8,1963-09-15,1,Norway,Denmark,Denmark,Norway,Ude,0-4,0,4,Nordic Championship,Oslo,Norway,False,Danmark bliver nummer 2 - 7 point over Norge. De to 4-0 sejre er med til at sikre andenpladsen,no,dk
+9,1979-06-06,1,Denmark,Northern Ireland,Denmark,Northern Ireland,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Danmark slutter sidst i gruppen. Sejren havde ingen efekt,dk,gb-nir
+10,1980-11-19,1,Denmark,Luxembourg,Denmark,Luxembourg,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig ikke. Sejren sikrede dog en 3 plads ud af fem,dk,lu
+11,1989-06-18,1,Denmark,Brazil,Denmark,Brazil,Hjemme,4-0,4,0,Friendly,Copenhagen,Denmark,False,Venskabskamp,dk,br
+12,1991-09-25,1,Faroe Islands,Denmark,Denmark,Faroe Islands,Ude,0-4,0,4,UEFA Euro qualification,Landskrona,Sweden,True,Danmark ender som 2'er i gruppen. 6 point foran Nordirland. Sejren hadve ingen effekt i gruppen,fo,dk
+13,1993-06-02,1,Denmark,Albania,Denmark,Albania,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig ikke. Sejret sikrede tredjepladsen. Tredjepladsen tabt på målscoren,dk,al
+14,1993-08-25,1,Denmark,Lithuania,Denmark,Lithuania,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig ikke. Sejret sikrede tredjepladsen. Tredjepladsen tabt på målscoren,dk,lt
+15,1995-06-07,1,Denmark,Cyprus,Denmark,Cyprus,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Danmark bliver nummer to i gruppen. 6 point foran Belgien. Sejren havde ingen effekt.,dk,cy
+16,1997-04-30,1,Denmark,Slovenia,Denmark,Slovenia,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalifixcerer sig. 2. point foran Kroatien. Kampen medvirkede til i sidste ende.,dk,si
+17,2006-10-11,1,Liechtenstein,Denmark,Denmark,Liechtenstein,Ude,0-4,0,4,UEFA Euro qualification,Vaduz,Liechtenstein,False,Danmark ender som nummer fire i gruppen. Sejren havde inge effekt.,li,dk
+18,2007-09-12,1,Denmark,Liechtenstein,Denmark,Liechtenstein,Hjemme,4-0,4,0,UEFA Euro qualification,Aarhus,Denmark,False,Danmark ender som nummer fire i gruppen. Sejren havde inge effekt.,dk,li
+19,2016-06-07,1,Bulgaria,Denmark,Denmark,Bulgaria,Ude,0-4,0,4,Kirin Cup,Suita,Japan,True,Playoff om 3. plads. Danmark vinder bronze pga sejren,bg,dk
+20,2017-09-01,1,Denmark,Poland,Denmark,Poland,Hjemme,4-0,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Danmark kvalificerer sig fire point foran nummer tre. Kampen havde ingen direkte effekt.,dk,pl
+21,2019-10-15,1,Denmark,Luxembourg,Denmark,Luxembourg,Hjemme,4-0,4,0,Friendly,Aalborg,Denmark,False,Venskabskamp,dk,lu
+22,2020-10-07,1,Denmark,Faroe Islands,Denmark,Faroe Islands,Hjemme,4-0,4,0,Friendly,Herning,Denmark,False,Venskabskamp,dk,fo
+23,2021-03-31,1,Austria,Denmark,Denmark,Austria,Ude,0-4,0,4,FIFA World Cup qualification,Vienna,Austria,False,Danmark vinder gruppen med fire point. Begge sejre medvirkede tilsammen,at,dk
+24,2021-06-26,1,Wales,Denmark,Denmark,Wales,Ude,0-4,0,4,UEFA Euro,Amsterdam,Netherlands,True,16. delsfinale - Danmark går videre til kvartfinalen,gb-wls,dk
+25,2021-10-09,1,Moldova,Denmark,Denmark,Moldova,Ude,0-4,0,4,FIFA World Cup qualification,Chișinău,Moldova,False,Danmark vinder gruppen med fire point. Begge sejre medvirkede tilsammen,md,dk
+26,2023-09-07,1,Denmark,San Marino,Denmark,San Marino,Hjemme,4-0,4,0,UEFA Euro qualification,Copenhagen,Denmark,False,Danmark vinder gruppen med samme point som Slovenien. Sejren havde direkte effekt.,dk,sm
