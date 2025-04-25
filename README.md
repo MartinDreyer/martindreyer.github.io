@@ -1,16 +1,25 @@
-# Martin Dreyer
-
-**Udvikler og journalist**  
-Odense, Danmark  
-📞 <a href="tel:+4542429697">+45 4242 9697</a>  
-📧 [martinchristiandreyer@gmail.com](mailto:martinchristiandreyer@gmail.com)
-
----
+<div class="profile-container">
+    <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" width="150" height="150" class="profile-img">
+    <div>
+        <strong>Martin Dreyer</strong><br>
+        Udvikler og journalist<br>
+        Odense, Danmark<br>
+        📞 <a href="tel:+4542429697">+45 4242 9697</a><br>
+        📧 <a href="mailto:martinchristiandreyer@gmail.com">martinchristiandreyer@gmail.com</a>
+    </div>
+</div>
+<div class="icon-container">
+    <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
+        <img src="assets/icons/linkedin.webp" class="icon-img"/>
+    </a>
+    <a href="https://github.com/MartinDreyer" target="_blank">
+        <img src="assets/icons/github.webp" class="icon-img"/>
+    </a>
+</div>
 
 ## Profil
 
-Jeg elsker projekter, hvor min tekniske kunnen kan understøtte vigtige historier.  
-Jeg går op i, at menneskerne omkring mig har det godt og er altid god for en hjælpende hånd, hvor der er brug for det.  
+Jeg er en journalistuddannet udvikler, der er glad for store datasæt og programmering.  
 Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret basketball-fan.
 
 ---
@@ -57,3 +66,27 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
 - Dataanalyse, journalistik og journalistisk udvikling  
 - Flere JS-frameworks (primært React)  
 - Docker, Postgres
+
+<style>
+    .icon-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 4px;
+    }
+    .icon-img {
+        height:40px;
+        width:40px;
+    }
+    .profile-container {
+        display: flex; 
+        align-items: center; 
+        border-radius: 8px; 
+        padding: 10px; 
+        max-width: 400px;
+    }
+    .profile-img {
+        border-radius: 50%; 
+        margin-right: 15px;
+    }
+</style>
