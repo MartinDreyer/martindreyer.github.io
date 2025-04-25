@@ -1,24 +1,26 @@
 <div class="profile-container">
     <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" width="150" height="150" class="profile-img">
-    <div>
-        <strong>Martin Dreyer</strong><br>
-        Udvikler og journalist<br>
-        Odense, Danmark<br>
-        <span class="contact-info">
-            📞 <a href="tel:+4542429697">+45 4242 9697</a>
-        </span>
-        <span class="contact-info">
-            📧 <a href="mailto:martinchristiandreyer@gmail.com">martinchristiandreyer@gmail.com</a>
-        </span>
+    <div class="contact-info-container">
+        <div>
+            <strong>Martin Dreyer</strong><br>
+            Udvikler og journalist<br>
+            Odense, Danmark<br>
+            <span class="contact-info">
+                📞 <a href="tel:+4542429697">+45 4242 9697</a>
+            </span>
+            <span class="contact-info">
+                📧 <a href="mailto:martinchristiandreyer@gmail.com">martinchristiandreyer@gmail.com</a>
+            </span>
+        </div>
+        <div class="icon-container">
+            <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
+                <img src="assets/icons/linkedin.webp" class="icon-img"/>
+            </a>
+            <a href="https://github.com/MartinDreyer" target="_blank">
+                <img src="assets/icons/github.webp" class="icon-img"/>
+            </a>
+        </div>
     </div>
-</div>
-<div class="icon-container">
-    <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
-        <img src="assets/icons/linkedin.webp" class="icon-img"/>
-    </a>
-    <a href="https://github.com/MartinDreyer" target="_blank">
-        <img src="assets/icons/github.webp" class="icon-img"/>
-    </a>
 </div>
 
 ## Profil
@@ -79,8 +81,8 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
         gap: 4px;
     }
     .icon-img {
-        height:40px;
-        width:40px;
+        height:25px;
+        width:25px;
     }
     .profile-container {
         display: flex; 
@@ -96,5 +98,13 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
     .contact-info {
         display:flex;
         gap:8px;
+    }
+    .contact-info-container {
+        display: flex;
+        flex-direction: column;
+        gap:8px;
+    }
+    h1:first-of-type {
+        display: none;
     }
 </style>
