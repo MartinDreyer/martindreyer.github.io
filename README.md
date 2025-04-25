@@ -4,8 +4,12 @@
         <strong>Martin Dreyer</strong><br>
         Udvikler og journalist<br>
         Odense, Danmark<br>
-        📞 <a href="tel:+4542429697">+45 4242 9697</a><br>
-        📧 <a href="mailto:martinchristiandreyer@gmail.com">martinchristiandreyer@gmail.com</a>
+        <span class="contact-info">
+            📞 <a href="tel:+4542429697">+45 4242 9697</a>
+        </span>
+        <span class="contact-info">
+            📧 <a href="mailto:martinchristiandreyer@gmail.com">martinchristiandreyer@gmail.com</a>
+        </span>
     </div>
 </div>
 <div class="icon-container">
@@ -70,7 +74,7 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
 <style>
     .icon-container {
         display: flex;
-        justify-content: center;
+        justify-content: start;
         align-items: center;
         gap: 4px;
     }
@@ -88,5 +92,9 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
     .profile-img {
         border-radius: 50%; 
         margin-right: 15px;
+    }
+    .contact-info {
+        display:flex;
+        gap:8px;
     }
 </style>
