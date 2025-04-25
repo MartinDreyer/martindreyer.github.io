@@ -6,10 +6,10 @@
             Udvikler og journalist<br>
             Odense, Danmark<br>
             <span class="contact-info">
-                📞 <a href="tel:+4542429697">+45 4242 9697</a>
+                📞 <a href="tel:+4542429697">Ring til mig</a>
             </span>
             <span class="contact-info">
-                📧 <a href="mailto:martinchristiandreyer@gmail.com">martinchristiandreyer@gmail.com</a>
+                📧 <a href="mailto:martinchristiandreyer@gmail.com">Skriv en mail</a>
             </span>
         </div>
         <div class="icon-container">
