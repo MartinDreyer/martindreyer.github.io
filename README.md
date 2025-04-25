@@ -2,8 +2,8 @@
 
 **Udvikler og journalist**  
 Odense, Danmark  
-📞 +45 4242 9697  
-📧 martinchristiandreyer@gmail.com  
+📞 <a href="tel:004542429697">+45 4242 9697</a>  
+📧 [martinchristiandreyer@gmail.com](mailto:martinchristiandreyer@gmail.com)
 
 ---
 
