@@ -14,10 +14,10 @@
         </div>
         <div class="icon-container">
             <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
-                <img src="assets/icons/linkedin25x25.webp" class="icon-img"/>
+                <img src="assets/icons/linkedin.webp" class="icon-img"/>
             </a>
             <a href="https://github.com/MartinDreyer" target="_blank">
-                <img src="assets/icons/github25x25.webp" class="icon-img"/>
+                <img src="assets/icons/github.webp" class="icon-img"/>
             </a>
         </div>
     </div>
