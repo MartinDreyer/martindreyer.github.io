@@ -15,16 +15,6 @@ Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret bask
 
 ---
 
-## Uddannelse
-
-**Kandidat, Amerikanske Studier**  
-Syddansk Universitet, 2019 - 2021
-
-**Professionsbachelor, Journalistik**  
-Danmarks Medie- og Journalisthøjskole, 2013 - 2017
-
----
-
 ## Arbejde
 
 ### Udvikler og journalist  
@@ -47,6 +37,16 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
 
 - Rådgav folkeskolerne i Middelfart Kommune om kommunikation  
 - Fremstillede kommunikationsmateriale
+
+---
+
+## Uddannelse
+
+**Kandidat, Amerikanske Studier**  
+Syddansk Universitet, 2019 - 2021
+
+**Professionsbachelor, Journalistik**  
+Danmarks Medie- og Journalisthøjskole, 2013 - 2017
 
 ---
 
