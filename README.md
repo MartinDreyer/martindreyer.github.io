@@ -25,7 +25,7 @@
 
 ## Profil
 
-Jeg er en journalistuddannet udvikler, der er glad for store datasæt og programmering.  
+Jeg er en journalistuddannet udvikler, der er glad for store datasæt og programmering, der understøtter god journalistik.  
 Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret basketball-fan.
 
 ---
