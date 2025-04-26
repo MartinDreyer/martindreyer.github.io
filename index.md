@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="profile-container">
     <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" width="150" height="150" class="profile-img">
     <div class="contact-info-container">
