@@ -35,18 +35,26 @@ Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret bask
 
 ## Arbejde
 
-### Udvikler og journalist  
-**TV 2 FYN | 2019 - nu**
+
+### Datajournalist og udvikler
+**MD Programmering | 2024 - nu**
 
 - Primær udvikler på et komplet redesign af tv2fyn.dk samt implementering af Statamic CMS  
-- Udviklede transskriberingsværktøjet TTEX (Postgres, OAuth 2.0, notifikationssystem)  
+- Datavisualisering, dataanalyse og scraping
+
+
+### Udvikler og journalist  
+**TV 2 FYN | 2019 - 2024**
+
+- Udviklede transskriberingsværktøjet TTEX
+- Udviklede standalone apps til journalistisk formidling 
 - Datavisualisering og scraping i journalistisk sammenhæng  
-- Tidligere jourhavende på den digitale redaktion
+- Jourhavende på den digitale redaktion
 
 ### Udvikler  
 **TV 2 FYN | 2017 - 2018**
 
-- Udviklede 11 undersider til TV 2 Fyn i forbindelse med kommunalvalget  
+- Udviklede et valgunivers til TV 2 Fyn i forbindelse med kommunalvalget 2017
 - Central del af datahåndtering i forbindelse med KV17  
 - Udarbejdede datavisualiseringer på valgaftenen
 
