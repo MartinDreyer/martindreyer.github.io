@@ -1,50 +1,4 @@
----
-layout: default
----
-<style>
-    .profile-container {
-        display: flex;
-        align-items: center;
-        border-radius: 0.5rem;
-        padding: 1rem;
-        max-width: 24rem;
-    }
-    .profile-image {
-        border-radius: 50%;
-        margin-right: 1rem;
-        width: 150px;
-        height: 150px;
-    }
-    .profile-details {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-    .profile-contact {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-        margin-top: 0.25rem;
-    }
-    .profile-links {
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-        margin-top: 0.5rem;
-    }
-    .profile-link-icon {
-        width: 1.5rem;
-        height: 1.5rem;
-    }
-    .profile-link {
-        color: #2563eb;
-        text-decoration: none;
-    }
-    .profile-link:hover {
-        text-decoration: underline;
-    }
-</style>
-
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
 <div class="profile-container">
     <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" class="profile-image">
     <div class="profile-details">
@@ -132,3 +86,46 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
     <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" class="h-6">
   </div>
 </div>
+<style>
+    .profile-container {
+        display: flex;
+        align-items: center;
+        border-radius: 0.5rem;
+        padding: 1rem;
+        max-width: 24rem;
+    }
+    .profile-image {
+        border-radius: 50%;
+        margin-right: 1rem;
+        width: 150px;
+        height: 150px;
+    }
+    .profile-details {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .profile-contact {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-top: 0.25rem;
+    }
+    .profile-links {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    }
+    .profile-link-icon {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .profile-link {
+        color: #2563eb;
+        text-decoration: none;
+    }
+    .profile-link:hover {
+        text-decoration: underline;
+    }
+</style>
