@@ -2,29 +2,27 @@
 layout: default
 ---
 
-<div class="profile-container">
-    <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" width="150" height="150" class="profile-img">
-    <div class="contact-info-container">
-        <div>
-            <strong>Martin Dreyer</strong><br>
-            Udvikler og journalist<br>
-            Odense, Danmark<br>
-            <span class="contact-info">
-                📞 <a href="tel:+4542429697">Ring til mig</a>
-            </span>
-            <span class="contact-info">
-                📧 <a href="mailto:martinchristiandreyer@gmail.com">Skriv en mail</a>
-            </span>
-        </div>
-        <div class="icon-container">
-            <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
-                <img src="assets/icons/linkedin.webp" class="icon-img"/>
-            </a>
-            <a href="https://github.com/MartinDreyer" target="_blank">
-                <img src="assets/icons/github.webp" class="icon-img"/>
-            </a>
-        </div>
+<div class="flex items-center rounded-lg p-4 max-w-md">
+  <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" class="rounded-full mr-4 w-[150px] h-[150px]">
+  <div class="flex flex-col gap-2">
+    <div>
+      <strong>Martin Dreyer</strong><br>
+      Udvikler og journalist<br>
+      Odense, Danmark<br>
+      <div class="flex gap-2 mt-1">
+        📞 <a href="tel:+4542429697" class="text-blue-600 hover:underline">Ring til mig</a>
+        📧 <a href="mailto:martinchristiandreyer@gmail.com" class="text-blue-600 hover:underline">Skriv en mail</a>
+      </div>
     </div>
+    <div class="flex items-center gap-2 mt-2">
+      <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
+        <img src="assets/icons/linkedin.webp" alt="LinkedIn" class="w-6 h-6">
+      </a>
+      <a href="https://github.com/MartinDreyer" target="_blank">
+        <img src="assets/icons/github.webp" alt="GitHub" class="w-6 h-6">
+      </a>
+    </div>
+  </div>
 </div>
 
 ## Profil
@@ -69,21 +67,21 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
 
 ---
 
-<h2>Teknologier jeg arbejder med</h2>
+## Teknologier jeg arbejder med
 
-<div class="tech-logos">
-  <div class="tech-row">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+<div class="flex flex-col gap-2 items-start">
+  <div class="flex gap-2">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" class="h-6">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" class="h-6">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" class="h-6">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" class="h-6">
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" class="h-6">
   </div>
-  <div class="tech-row">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
+  <div class="flex gap-2">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" class="h-6">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" class="h-6">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" class="h-6">
+    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" class="h-6">
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" class="h-6">
   </div>
 </div>
