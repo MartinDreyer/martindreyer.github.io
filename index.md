@@ -128,4 +128,7 @@ Danmarks Medie- og Journalisthøjskole, 2013 - 2017
     .profile-link:hover {
         text-decoration: underline;
     }
+    h1:first-of-type {
+        display: none;
+    }
 </style>
