@@ -1,28 +1,75 @@
 ---
 layout: default
 ---
+<style>
+    .profile-container {
+        display: flex;
+        align-items: center;
+        border-radius: 0.5rem;
+        padding: 1rem;
+        max-width: 24rem;
+    }
+    .profile-image {
+        border-radius: 50%;
+        margin-right: 1rem;
+        width: 150px;
+        height: 150px;
+    }
+    .profile-details {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .profile-contact {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-top: 0.25rem;
+    }
+    .profile-links {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    }
+    .profile-link-icon {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .profile-link {
+        color: #2563eb;
+        text-decoration: none;
+    }
+    .profile-link:hover {
+        text-decoration: underline;
+    }
+</style>
 
-<div class="flex items-center rounded-lg p-4 max-w-md">
-  <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" class="rounded-full mr-4 w-[150px] h-[150px]">
-  <div class="flex flex-col gap-2">
-    <div>
-      <strong>Martin Dreyer</strong><br>
-      Udvikler og journalist<br>
-      Odense, Danmark<br>
-      <div class="flex gap-2 mt-1">
-        📞 <a href="tel:+4542429697" class="text-blue-600 hover:underline">Ring til mig</a>
-        📧 <a href="mailto:martinchristiandreyer@gmail.com" class="text-blue-600 hover:underline">Skriv en mail</a>
-      </div>
+<div class="profile-container">
+    <img src="assets/images/martindreyer.webp" alt="Martin Dreyer" class="profile-image">
+    <div class="profile-details">
+        <div>
+            <strong>Martin Dreyer</strong><br>
+            Udvikler og journalist<br>
+            Odense, Danmark<br>
+            <div class="profile-contact">
+                <span>
+                    📞 <a href="tel:+4542429697" class="profile-link">Ring til mig</a>
+                </span>
+                <span>
+                    📧 <a href="mailto:martinchristiandreyer@gmail.com" class="profile-link">Skriv en mail</a>
+                </span>
+            </div>
+        </div>
+        <div class="profile-links">
+            <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
+                <img src="assets/icons/linkedin.webp" alt="LinkedIn" class="profile-link-icon">
+            </a>
+            <a href="https://github.com/MartinDreyer" target="_blank">
+                <img src="assets/icons/github.webp" alt="GitHub" class="profile-link-icon">
+            </a>
+        </div>
     </div>
-    <div class="flex items-center gap-2 mt-2">
-      <a href="https://www.linkedin.com/in/martindreyer/" target="_blank">
-        <img src="assets/icons/linkedin.webp" alt="LinkedIn" class="w-6 h-6">
-      </a>
-      <a href="https://github.com/MartinDreyer" target="_blank">
-        <img src="assets/icons/github.webp" alt="GitHub" class="w-6 h-6">
-      </a>
-    </div>
-  </div>
 </div>
 
 ## Profil
