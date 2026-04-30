@@ -50,12 +50,29 @@ Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret bask
     <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" class="h-6">
     <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" class="h-6">
   </div>
+  <div class="flex gap-2">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" class="h-6">
+    <img src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white" alt="Polars" class="h-6">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly" class="h-6">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" class="h-6">
+    <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure" class="h-6">
+  </div>
 </div>
 
 ---
 
 ## Arbejde
 
+
+### Datajournalist og udvikler
+**[De Kloge Ugler Aps](https://deklogeugler.dk) | 2024 - nu**
+
+- Medstifter og medejer af analysebureau med speciale i datajournalistik og dataanalyse
+- Primær udvikler på en række datajournalistiske projekter for [Gravercentret – Danmarks Center for Undersøgende Journalistik](https://gravercentret.dk/)
+- Udviklede interaktive datavisualiseringsplatforme, herunder kortlægning af dansk ejendomsbesiddelse, oversvømmelsesrisiko og skoledata
+- Byggede datapipeline til scraping af referater fra kommunalbestyrelsesmøder i samtlige danske kommune.
+
+---
 
 ### Datajournalist og udvikler
 **MD Programmering | 2024 - nu**
@@ -67,10 +84,10 @@ Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret bask
 ### Udvikler og journalist  
 **TV 2 FYN | 2019 - 2024**
 
-- Udviklede transskriberingsværktøjet TTEX
-- Udviklede standalone apps til journalistisk formidling 
 - Datavisualisering og scraping i journalistisk sammenhæng  
-- Jourhavende på den digitale redaktion
+- Udvikling af internt transskriberingsværktøj
+- En lang række standalone apps til workflows og journalistisk formidling 
+- Jourhavende og journalist på den digitale redaktion
 
 ### Udvikler  
 **TV 2 FYN | 2017 - 2018**
