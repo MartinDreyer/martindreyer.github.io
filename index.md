@@ -11,7 +11,7 @@
                     📞 <a href="tel:+4542429697" class="profile-link">Ring til mig</a>
                 </span>
                 <span>
-                    📧 <a href="mailto:martinchristiandreyer@gmail.com" class="profile-link">Skriv en mail</a>
+                    📧 <a href="mailto:kontakt@martindreyer.dk" class="profile-link">Skriv en mail</a>
                 </span>
             </div>
         </div>
