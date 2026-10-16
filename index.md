@@ -64,6 +64,14 @@ Jeg bor i Odense med min kæreste, kan lide at læse og er semi-passioneret bask
 ## Arbejde
 
 
+### Udviklingsredaktør, DataHub
+**Jysk Fynske Medier (JFM) | okt. 2026 - nu**
+
+- Står i spidsen for opbygningen af en ny central DataHub, der omsætter offentlige datasæt til brugerrettede produkter som kort, grafer og søgbare databaser til lokaljournalistikken.
+- Arbejder på tværs af JFM's redaktioner for at afdække behov og udvikle datatjenester, der kan genbruges og skaleres.
+
+---
+
 ### Datajournalist og udvikler
 **[De Kloge Ugler Aps](https://deklogeugler.dk) | 2024 - nu**
 
